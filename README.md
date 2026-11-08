@@ -1,9 +1,8 @@
 # clone-hero-pad
 Unofficial Clone Hero Overlay control for Android.
 
-Get Clone Hero from official release
-
-[Get Clone Hero](https://github.com/clonehero-game/releases)
+Get Clone Hero from official guthub release
+[Get apk](https://github.com/clonehero-game/releases)
 
 ## Features
 
