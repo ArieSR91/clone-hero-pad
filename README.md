@@ -1,7 +1,6 @@
 # clone-hero-pad
-Unofficial Clone Hero Overlay control for Android.
-
-This app is made for Clone Hero but you can also use it for other games by changing the profile to gamepad or creating new profiles and adding new buttons.
+Unofficial Clone Hero Overlay control for Android. \
+This app is made for Clone Hero but you can also use it for other games by changing the profile to gamepad or creating new profiles and add new buttons.
 
 Get Clone Hero from official github release.
 [Get apk](https://github.com/clonehero-game/releases)
