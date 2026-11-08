@@ -89,5 +89,5 @@ app/src/main/java/com/clonehero/pad/
 This tool injects synthetic input for personal use. Use it only in games and apps where this is allowed; some online games prohibit input automation or virtual controllers.
 
 ## License
-
-[LICENSE](LICENSE)
+This project is open source.
+See the [LICENSE](LICENSE) file for details.
