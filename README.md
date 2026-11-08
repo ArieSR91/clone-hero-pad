@@ -1,6 +1,10 @@
 # clone-hero-pad
 Unofficial Clone Hero Overlay control for Android.
 
+Get Clone Hero from official release
+
+[Get Clone Hero](https://github.com/clonehero-game/releases)
+
 ## Features
 
 - **Keyboard keys**: A S J K L H, arrows, SPACE, ENTER, TAB, ESC, and more via *Add key*.
